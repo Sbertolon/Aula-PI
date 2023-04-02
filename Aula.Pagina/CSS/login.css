@@ -1,0 +1,47 @@
+.formulario {
+background-color: antiquewhite;
+display: flex;
+flex-direction: column;
+color: #E6005A;
+border-radius: 10px;
+padding: 10px;
+width: 300px;
+}
+
+.formulario h4 {
+    margin: 0;
+}
+
+.formulario input {
+    border: 2px solid;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 3px 0;
+}
+
+.formulario button {
+    background-color: #ce477c;
+    border-radius: 5px;
+    color: white;
+    width: 150px;
+    border: 0;
+    padding: 3px 0;
+    align-self: center;
+    cursor: pointer;
+}
+
+#saudacao {
+    font-size: 25px;
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: #32B9CD;
+    height: 214px;
+    text-align: center;
+    text-decoration: wavy;
+    color: beige;
+    justify-content: center;
+    padding: 50px;
+}
